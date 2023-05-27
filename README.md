@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
