@@ -1,1 +1,1 @@
-fix non-coco val
+Update Docs language dropdown height (#6927)
