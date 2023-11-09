@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
