@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Reverse IoU threshold for NMS docs descriptions (#9151)
