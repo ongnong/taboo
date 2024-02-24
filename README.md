@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Updated SQL Query Plot Code (#8120)
