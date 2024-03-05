@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+docs: update view-results-in-terminal.md (#66)
