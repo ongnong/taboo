@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
