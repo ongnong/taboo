@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
