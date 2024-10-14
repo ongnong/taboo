@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Update Colab notebook for YOLOv8.1 (#8660)
