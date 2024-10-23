@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
