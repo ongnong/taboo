@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+New test for labels and crops (#8861)
