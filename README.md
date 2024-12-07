@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
